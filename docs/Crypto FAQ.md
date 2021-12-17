@@ -1,4 +1,4 @@
-**Answers to common Crypto Questions by CharlieDAO**
+**Answers to most common Crypto Questions by CharlieDAO**
 
 Q1 - So what exactly happens when I sign a transaction, end-to-end? e.g. I initiate a swap on Uniswap. Does my transaction request go to a provider assigned by Metamask? Or is it one set up by the DApp?
 
